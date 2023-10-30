@@ -1,2 +1,2 @@
-# CodeSoft-Level1-task1
-Landing Page by using HTML and CSS 
+# CodeSoft-Level-1
+Landing Page,PortFolio and Calculator by using HTML,CSS & Javascript.
